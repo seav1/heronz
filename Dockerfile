@@ -1,1 +1,1 @@
-FROM jfu888/dockerjs
+FROM fscarmen/argo-nezha:latest
